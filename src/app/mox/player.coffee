@@ -1,0 +1,9 @@
+Player
+  life
+  mana
+  hand
+  library
+  graveyard
+  exile
+  battlefield
+  lands_per_turn

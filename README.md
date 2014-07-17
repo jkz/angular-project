@@ -1,2 +1,1 @@
-# An indirect fork of ngBoilerplate
-
+# A mtg engine in js
